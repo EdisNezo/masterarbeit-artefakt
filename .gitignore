@@ -32,13 +32,6 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
-/.agent
-.agent
-/agent
-/.claude
-.claude
-/.agents
-.agents
 
 # vercel
 .vercel
