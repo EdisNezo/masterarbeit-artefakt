@@ -1,0 +1,173 @@
+[
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Seeking Social Support (Colleagues, Friends, Family)",
+      "short_description": "Actively seeking conversation with trusted individuals to find emotional relief, practical advice, or simply a listening ear when dealing with technology-related stress.",
+      "application_explanation": "When you feel stressed:\n1. **Identify the Feeling:** Are you frustrated, overwhelmed, insecure, or something else?\n2. **Choose a Person:** Think about who would be good for you right now – a colleague who knows the problem, a friend to distract you, or someone who just listens?\n3. **Speak Up:** Articulate your problem or feelings. Examples: 'I'm totally overwhelmed with X right now, do you have a moment?' or 'Y is really frustrating me right now, I just need to vent.'\n4. **Accept Support:** Be open to advice, comfort, or simply the feeling of being understood.",
+      "type": "Individual / Social"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Complexity",
+    "strategy": {
+      "name": "Requesting Technical Support (Helpdesk, Colleague)",
+      "short_description": "Specifically seeking help with technical problems instead of searching for a long time yourself or getting frustrated.",
+      "application_explanation": "When you encounter a technical problem:\n1. **Brief Self-Diagnosis:** Briefly try to isolate the problem. What isn't working? Since when?\n2. **Choose the Right Channel:** Is it a general issue (-> IT Helpdesk)? Or does a specific colleague know the system well?\n3. **Describe the Problem Clearly:** Formulate a precise request (What's the problem? What have you tried? Error message?).\n4. **Accept Help:** Don't hesitate to contact support. It often saves time and nerves.",
+      "type": "Individual / Organizational"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Complexity",
+    "strategy": {
+      "name": "Targeted Learning & Skill Development (Step-by-Step)",
+      "short_description": "Reducing uncertainty or complexity by actively learning new functions or technologies in small, manageable steps.",
+      "application_explanation": "When a new software or feature overwhelms you:\n1. **Set a Concrete Learning Goal:** What exactly do you want to understand or be able to do? (e.g., 'I want to learn how to create a pivot table in Tool X.')\n2. **Plan a Small Learning Unit:** Set aside a short, fixed time (e.g., 15-30 min) to learn *only this one aspect*.\n3. **Find a Resource:** Look for a suitable guide (video tutorial, FAQ, ask a colleague).\n4. **Try & Apply:** Try out the function directly. Repeat if necessary.\n5. **Record Success:** Briefly note down the steps or the result. This strengthens the feeling of self-efficacy.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Insecurity",
+    "strategy": {
+      "name": "Proactively Developing Skills & Sharing Knowledge",
+      "short_description": "Actively addressing uncertainty about one's own skills by learning specific things and sharing acquired knowledge with colleagues to strengthen collective competence.",
+      "application_explanation": "If you feel unsure whether your skills are still sufficient:\n1. **Identify Learning Needs:** In which technology area do you feel insecure or left behind?\n2. **Find Learning Resources:** Actively search for courses, tutorials, or articles on this topic.\n3. **Block Learning Time:** Schedule fixed times for further training.\n4. **Share Knowledge:** Offer to share your newly acquired knowledge with colleagues (e.g., in a brief team update). This reinforces your knowledge and strengthens the team.",
+      "type": "Individual / Social"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Practicing Mindfulness (Quick Exercise)",
+      "short_description": "Consciously perceiving the present moment to step out of autopilot and interrupt stress reactions.",
+      "application_explanation": "When you notice you are stressed or distracted:\n1. **Pause:** Briefly interrupt your activity.\n2. **Focus on Breath:** Close your eyes (if possible) and focus solely on your breath for 1 minute. Feel the air flowing in and out.\n3. **Feel Your Body:** Briefly direct your attention to your feet on the floor or your hands.\n4. **Continue Consciously:** Open your eyes and consciously decide what to do next.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Invasion",
+    "strategy": {
+      "name": "Establishing a Clear End-of-Workday Routine",
+      "short_description": "Consciously setting signals to mentally conclude the workday and facilitate separation from private life.",
+      "application_explanation": "To switch off better after work:\n1. **Define the Last Task:** Determine what the final work action of the day is (e.g., checking emails, creating tomorrow's plan).\n2. **Set a Physical Signal:** Tidy up your desk, shut down the work computer, close the office door (even at home).\n3. **Disable Notifications:** Turn off *all* work-related notifications on *all* devices.\n4. **Create a Transition Ritual:** Do something that clearly marks the transition to leisure time (e.g., take a walk, listen to music, change clothes).",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Invasion",
+    "strategy": {
+      "name": "Communicating Your Own Availability Boundaries",
+      "short_description": "Proactively communicating to colleagues and supervisors when you are available and when you are not, to manage expectations.",
+      "application_explanation": "To avoid unwanted interruptions during leisure time:\n1. **Set Your Own Rules:** Define for yourself when you don't want to be available for work (e.g., after 6 PM, on weekends).\n2. **Communicate Transparently:** Inform your team/supervisor about your regular non-availability times. Use status messages in tools if applicable.\n3. **Use Out-of-Office Replies:** Always set up a clear out-of-office message for vacations or longer absences.\n4. **Be Consistent:** Stick to your communicated boundaries (don't respond outside these times, except in real emergencies).",
+      "type": "Individual / Social"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Overload",
+    "strategy": {
+      "name": "Seeking Conscious Breaks & Distraction (Short-Term)",
+      "short_description": "Taking a short, conscious break from technology when feeling acutely overwhelmed or frustrated, to recover.",
+      "application_explanation": "When you realize it's getting too much:\n1. **Say Stop:** Immediately interrupt the current task.\n2. **Create Distance:** Stand up, leave your workspace, look out the window.\n3. **Short Distraction:** Do something completely different for 5-10 minutes (get coffee, stretch, talk briefly with someone about something pleasant, listen to a favorite song).\n4. **No Problem Solving:** Don't try to think about the problem during the break.\n5. **Return Refreshed:** Then go back to the task with some distance.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Seeking Conscious Breaks & Distraction (Long-Term / Recovery)",
+      "short_description": "Using regularly scheduled activities outside of work to recover from technology-related stress and replenish resources.",
+      "application_explanation": "For long-term stress management:\n1. **Identify Interests:** Which hobbies or activities (sports, nature, creative, social) give you energy and joy?\n2. **Schedule Time Firmly:** Put these activities firmly in your calendar, just like work appointments.\n3. **Create Tech-Free Zones:** Define times or places (e.g., bedroom, dinner table) where work devices are not allowed.\n4. **Enjoy the Activity:** Fully focus on the activity while doing it and let go of work thoughts.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Cognitive Reappraisal / Positive Thinking",
+      "short_description": "Re-evaluating a stressful situation by changing one's perspective to positively influence the emotional response.",
+      "application_explanation": "When a situation stresses you out:\n1. **Recognize Negative Thoughts:** What exactly are you thinking right now? (e.g., 'This is way too complicated.')\n2. **Look for Alternative Perspectives:** Ask yourself: Is there another point of view? What could be positive about this? (e.g., 'This is a challenge I can grow from.' or 'What is the long-term benefit of this technology?')\n3. **Use Humor:** Can you see the situation with a bit of humor?\n4. **Focus on Learning Opportunity:** View it as a chance to learn something new or improve.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Constructive Venting (Letting Off Steam)",
+      "short_description": "Expressing negative emotions in a targeted and controlled way to release pressure without harming oneself or others.",
+      "application_explanation": "When you are very frustrated or angry:\n1. **Acknowledge the Emotion:** Allow yourself to feel the anger.\n2. **Choose a Channel:** Talk to a trusted person, write it down (and throw it away), do some quick exercise, or shout (where it doesn't disturb anyone).\n3. **Focus on Feeling, Not Blame:** Concentrate on releasing the feeling, rather than endlessly pondering the question of blame.\n4. **Limit the Time:** Set a clear end to the venting.\n5. **Solution Orientation:** Afterwards, ask yourself: 'What can I do now to improve the situation?'",
+      "type": "Individual / Social"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Exercising Control over IT Use (Adjusting Settings)",
+      "short_description": "Actively using the available settings of hardware and software to make one's own work environment less stressful.",
+      "application_explanation": "To gain more control:\n1. **Identify Disturbance Sources:** Which notifications (sounds, pop-ups, banners) distract you the most?\n2. **Adjust Settings:** Go into the system or app settings and disable unnecessary notifications or set them to 'silent delivery'.\n3. **Use Status:** Consciously set your status in communication tools to 'Busy' or 'Do Not Disturb' when you need to focus.\n4. **Customize Interface:** Hide unnecessary toolbars or features if possible.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Overload",
+    "strategy": {
+      "name": "Adapting Work Routines & Prioritizing (e.g., Eisenhower, Pomodoro)",
+      "short_description": "Applying structured methods to organize workload, set priorities, and enable focused work periods.",
+      "application_explanation": "To manage the flood of work:\n1. **Collect Tasks:** List all pending tasks.\n2. **Prioritize (e.g., Eisenhower Matrix):** Rate each task by importance and urgency (Important/Urgent: Do now; Important/Not Urgent: Schedule; Not Important/Urgent: Delegate/Automate; Not Important/Not Urgent: Eliminate).\n3. **Plan Time Blocks (Timeboxing/Pomodoro):** Schedule fixed times for focused work on important tasks (e.g., 25 min focus, 5 min break).\n4. **Set Email Times:** Process emails only at specific times during the day, not constantly.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Complexity",
+    "strategy": {
+      "name": "Planning & Structuring Complex Tasks",
+      "short_description": "Breaking down complex technological tasks into smaller, manageable steps and creating a clear plan.",
+      "application_explanation": "When a task seems technically complex:\n1. **Clarify the Goal:** What exactly needs to be achieved?\n2. **Define Steps:** Break the task down into logical sub-steps.\n3. **Determine Sequence:** Put the steps in a meaningful order.\n4. **Check Resources:** What do you need for each step (info, tools, help)?\n5. **Visualize the Plan:** Write down the steps (checklist, mind map).\n6. **Proceed Step-by-Step:** Focus only on the next sub-step at a time.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Emotion Control (Acute Techniques)",
+      "short_description": "Simple techniques for immediate regulation of strong negative emotions in a stressful situation.",
+      "application_explanation": "When you notice anger, panic, or frustration rising:\n1. **STOP:** Pause before reacting.\n2. **Breathe:** Take several deep, slow breaths in and out. Focus on your breath.\n3. **Count:** Slowly count backward from 10 to 0.\n4. **Shift Perspective (briefly):** Ask yourself: 'Will this still be important in 5 hours?'\n5. **Move:** Stand up briefly, stretch, or shake out your arms/legs.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Practicing Acceptance (For Unchangeable Situations)",
+      "short_description": "Consciously accepting what cannot be changed to reduce emotional resistance and energy drain.",
+      "application_explanation": "When you face a problem you can't solve (e.g., system error beyond your control):\n1. **Acknowledge the Situation:** Realize: 'I cannot change this right now.'\n2. **Notice Feelings:** Allow yourself to feel frustration without dwelling on it.\n3. **Shift Focus:** Ask yourself: 'What *can* I do instead?' Direct your energy towards controllable aspects.\n4. **Practice Letting Go:** Repeat to yourself: 'It is what it is. I'll focus on what's possible.'",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Complexity",
+    "strategy": {
+      "name": "Adapting Technology / Solving Problems (Workarounds, Modifying Features)",
+      "short_description": "Actively looking for ways to adapt the technology itself (settings) or find workarounds to avoid stressful functionalities.",
+      "application_explanation": "If a feature is annoying or doesn't work:\n1. **Check Settings:** Are there options to disable, customize, or simplify the feature? (e.g., notifications, autocorrect, views).\n2. **Look for Alternative Paths (Workaround):** Is there another way to achieve the same goal? Can you use a different tool? Can you design a process step differently?\n3. **Seek Help (if needed):** Ask colleagues or support if they know a trick or workaround.\n4. **Document:** Note down working adjustments or workarounds for the future.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "Techno-Overload",
+    "strategy": {
+      "name": "Making Compromises ('Good Enough' Principle)",
+      "short_description": "Consciously deciding to forgo perfection or adjust expectations to avoid overload and complete tasks.",
+      "application_explanation": "When time pressure or task volume is high:\n1. **Check Priorities:** What is the absolute minimum that needs to be achieved?\n2. **Define 'Good Enough':** What result is acceptable, even if not perfect?\n3. **Make the Decision:** Consciously opt for the compromise (e.g., implement one less feature to meet the deadline).\n4. **Accept:** Stand by the decision and avoid subsequent rumination about the 'lost' details.",
+      "type": "Individual"
+    }
+  },
+  {
+    "technostress_creator": "General",
+    "strategy": {
+      "name": "Applying Relaxation Techniques (e.g., Progressive Muscle Relaxation, Music)",
+      "short_description": "Using targeted exercises or methods to reduce physiological and psychological stress responses.",
+      "application_explanation": "For active relaxation:\n1. **Progressive Muscle Relaxation (Short Form):** Sit comfortably. Tightly clench fists (5 sec), then consciously release (10 sec). Repeat with shrugging shoulders, tensing facial muscles, etc.\n2. **Listen to Calming Music:** Choose instrumental, slow music and listen consciously for a few minutes, focusing only on the sounds.\n3. **Breathing Exercise (4-7-8):** Inhale through the nose for 4 sec, hold breath for 7 sec, exhale slowly through the mouth for 8 sec. Repeat several times.",
+      "type": "Individual"
+    }
+  }
+]

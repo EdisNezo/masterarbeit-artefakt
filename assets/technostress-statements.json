@@ -1,0 +1,1117 @@
+[
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "[a] fear of missing out important information"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "[a] lack of control over dealing with emails"
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "Sometimes I get frustrated if I, for example, cannot find how to change the line spacing. So, I swear at the screen and eventually work out what to do."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "I'm never going to go home at the end of the day with a clear deck of email, with everything finished...."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "So for example you could be doing something and you can be instantly bombarded with instant messages, they're there in front of you. Similarly with emails..."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "...and I've just had to discipline myself not to be doing emails 24 hours a day, seven days a week."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The program was too complex, required too many inputs for it to produce a work structure. It was developed to help us track our progress better as a team, but it took more time figuring it out than doing the actual work."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "We have some older products that are developed in C++, which is an older language. Dealing with this language and this older project has always been very slow and cumbersome compared with newer languages such as C#. Whenever I have to deal with this project, it seems like it is always a pain to compile and do things that are much simpler in the newer projects."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The fact that there is no documentation or help on the web for what I was doing and so I had to try to solve the problem all by myself and try to figure out why I was having terrible performance."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "E2E tests in cypress were failing a lot, I was doing an investigation of the issues and if possible, also fixes. But tests were very poorly written difficult to understand and even more difficult to fix ... After some time, you just realized that the best thing would be to delete all of it and start over."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "Web apps aren't my field, but I was forced to learn everything in 1 week only. For this reason, I had to study and work for about 20 hours a day, from morning to night. It was totally too hard for me."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "The focus (of software development) is on developing the tools for development ... The appearance of solutions and the trendiness of the technologies take precedence. ... As a developer, this causes frustration and the work to feel pointless. The time invested in learning them (new tools and systems) is wasted when they are discarded and moved on to the next trending technology."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "I had a lot to code, from the temperature control to the gas flow inside the oven. ... This was all done in a few weeks, leaving me feeling burnout. I worked a lot of extra hours for the project to be successful and on time."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "I don't exactly recall the project details, but I was required by a student to assist them in building a project using Java. It was a burdensome experience as it required a lot of creativity, out-of-the-box thinking and extensive knowledge of Java. The project problem did not have an immediate solution I could think of, and every part of it required significant mental effort."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "I worked many hours a day to finish on time, and I was very stressed because there was a lot of information to process. ... Besides the lack of time, web development is a heavy and complex task, because you have to process a lot of data ..."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "The fact that I wasn't used to the particular software nor languages in hand. This already had me kind of frustrated, so when we couldn't figure out what was the problem for some time, I was really struggling and felt like I didn't know enough for the job."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "Now a days with internet-enabled phones we are fully connected. However, the same thing can be burdensome when you really want to have quite time with friends and family. ... As competition increases, one needs to become more and more responsive even after office hours and on weekends. We went camping with friends. The plan was to have some isolation from work and have personal fun time. However, the production system had an issue and I got immediate chat and lots of emails. I had to spend close to 4 hours on that till the issue got resolved."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "I was working on our internal tool. Suddenly, the tool crashed, and all my progress was gone. I had to start the task from the beginning, which wasted a lot of my time."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The programs I develop handle lots of data, and when I started out, my company computer had less than the ideal amount of RAM, making the workflow laggy and I was even forced to have to use 2 different computers at once, so that the company computer did not crash because of too many applications being open. So trying to develop code and have many applications open at once was frustrating and took a lot of time. Lots of crashes happened."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The stressful part was that there was no compatibility between Visual Studio 2019 and Crystal Reports, so my user experience when manipulating reports was exponentially more stressful, like the VS19 would crash randomly, features of CR would be unavailable or impossible to use."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "The boss wanted to measure how much time we spent on the computer and what we did during it, so they installed that monitoring software for the 8 hours every day, and if you don't type, it sent you alerts and took screenshots for a company server. I felt hyper watched."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "Ich muss aufgrund der IT-Systeme schneller arbeiten und mehr Arbeit erledigen."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "Die Flut an eingehenden E-Mails macht es mir schwer, meine zugewiesenen Arbeitsaufgaben zu erledigen."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "Ich habe das Gefühl, ständig mit der Arbeit verbunden sein zu müssen."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "Die Grenzen zwischen Arbeit und Privatleben verschwimmen durch den Einsatz von IT."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "Die Komplexität der IT-Systeme gibt mir das Gefühl, unzureichende Fähigkeiten zu haben und ich muss viel Zeit und Mühe aufwenden, um sie zu verstehen."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "Ich fürchte, meinen Arbeitsplatz an Mitarbeiter mit besseren IT-Kenntnissen zu verlieren."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "Ich habe Angst, dass mein Arbeitsplatz durch ein IT-System ersetzt wird."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "Ich fühle mich unsicher wegen der ständigen Änderungen an den IT-Systemen und bin gezwungen, mich ständig anzupassen und weiterzubilden."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "... Internal development related to the (analytics software) interface should be done, and at the same time, support requests from the service desk software are coming in to be resolved.... It's a stressful situation when I need to advance 4-5 different things, all of which are urgent."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "... Be mindful of ad hoc calls on communication software, prepare myself for work hours and not multitask, and de-clutter my PC and close all windows/tabs in browser."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "I didn't get one hour of sleep."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "I found it out on a Sunday night but just worked on it because then I wouldn't have to stress about it (on Monday)."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "I had no idea how to make the code do what I wanted.... I had no experience of the programming language, I couldn't ask for advice, and the bug was critical."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The problem was having to use dated (development) frameworks that were not fit for the task."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "I was trying to create a chatbot and the software allows you to do so almost entirely through a GUI. ... Using that software was a terrible experience. ... the software has a bad UX, and it was hinting at some user actions (e.g., drag and drop) that weren't implemented."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The software didn't have much documentation, and some of it was outdated or incorrect."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The challenge was integrating different pieces of code, worked on by multiple developers into a working final piece."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "We had an issue where this internal software developed a bug where it wouldn't update what co-workers were uploading or what they had done throughout the day.... Nobody had any clue what had been done."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "(We were) changing over to this CRM new system. The whole thing was implemented without any input from the teams and people who used it. When the switch was made, it was overnight without any training. Nobody knew how it worked."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "The (error reporting) software has several bugs. I have to update templates twice or it won't update the record. Also, because of caching, sometimes I'd think that my update had no effect."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "The operating system that we used in development decided to make changes to its settings on its own. It was really difficult to figure out what had changed."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "End users find the variety of applications, functionality, and jargon intimidating and difficult to understand."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "They [employees] can be contacted anywhere and anytime, and often feel forced to respond to the extent that not connecting becomes disquieting."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "This kind of continual exposure leads individuals to feel that they are never free of these technologies and that their time and space have been invaded."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "They [employees] feel inundated, are unable to set practical cutoffs and priorities with respect to new information, and are forced to work faster to cope with increased processing requirements."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "Organizations adopt ICT products and applications that change rapidly. Consequently there is no chance for users to find meaningful patterns or develop a base of experience."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "'the massive amount of e-mails constantly arriving is hard to manage'"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "'Employees often felt pressured to check and respond to e-mails after hours'"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "'I often no longer know which applications we should use for which purposes. When it comes to internal trainings, we have three different tools that actually do the same thing and some employees use one, some use another. It is not standardised'"
+  },
+  {
+    "Technostress_Creator": "IT-based monitoring",
+    "Definition": null,
+    "User_Statement": "'I felt obligated to keep my Skype status online. Managers checked if employees were online during work hours, even though it is common practice, especially in our department, to sketch a draft on paper sometimes'"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "'constantly distracted from their actual work by e-mails'"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "'being overwhelmed by constant messages and thus working less productively and being more prone to errors'"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "'Some employees save their files locally, whereas others use the cloud, leading to frustration and version control issues'"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "'how ICTs should be used'"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "'for what purpose they should be used'"
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "'Some employees did not feel psychologically safe to ask ICT-related questions which impaired their productivity'"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "'a reduction in concentration during and after long virtual meetings'"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "'organisational conditions often require a high level of efficiency within meetings and allow little space for personal exchange and small talk'"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "(Basierend auf der Beschreibung \"fear of missing out important information was mentioned in qualitative studies\") \"Ich habe Angst, wichtige Informationen zu verpassen, wenn ich nicht ständig erreichbar bin.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "(Basierend auf der Beschreibung \"unreliability of technology ... such as interruptions\") \"Die ständigen technischen Unterbrechungen und die Unzuverlässigkeit der Systeme machen es unmöglich, sich auf eine Aufgabe zu konzentrieren.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "(Basierend auf dem Konzept der \"diffusion of work into private life\") \"Ich habe das Gefühl, dass die Grenzen zwischen Arbeit und Freizeit durch die Technologie völlig verschwimmen.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "(Basierend auf der Beschreibung \"continuous desire for brand new technology regardless of whether it is needed and which respondents associated, inter alia, with pressure\") \"Es herrscht ein ständiger Druck, immer die neueste Technologie zu nutzen, auch wenn sie nicht unbedingt gebraucht wird, was frustrierend ist.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "organizational IT users can feel overloaded because the use of IT forces them to work more than they can possibly handle"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "organizational IT users can, at times, feel that the use of IT for work is invading their personal life."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "organizational IT users can face constant technical problems while using IT, such as system crashes, and do not necessarily know why those happen."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "...they could fear that they might be replaced because they prefer old IT devices that may not be compatible with all relevant organizational software available at work..."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "...IT users think that they have to constantly adjust their working style because of new IT."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "... Internal development related to the (analytics software) interface should be done, and at the same time, support requests from the service desk software are coming in to be resolved.... It's a stressful situation when I need to advance 4-5 different things, all of which are urgent."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "I had no idea how to make the code do what I wanted.... I had no experience of the programming language, I couldn't ask for advice, and the bug was critical."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The problem was having to use dated (development) frameworks that were not fit for the task."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "[The problem is to] Be mindful of ad hoc calls on communication software, prepare myself for work hours and not multitask, and de-clutter my PC and close all windows/tabs in browser."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "We had an issue where this internal software developed a bug where it wouldn't update what co-workers were uploading or what they had done throughout the day.... Nobody had any clue what had been done. This led to some confusion because I was testing the same area as my co-worker ... and you are wasting your time doing something that has already been done."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "(We were) changing over to this CRM new system. The whole thing was implemented without any input from the teams and people who used it. When the switch was made, it was overnight without any training. Nobody knew how it worked."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "I was trying to create a chatbot and the software allows you to do so almost entirely through a GUI. ... On top of that, the software has a bad UX, and it was hinting at some user actions (e.g., drag and drop) that weren't implemented."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The (error reporting) software has several bugs. I have to update templates twice or it won't update the record. Also, because of caching, sometimes I'd think that my update had no effect."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "When I first came to work in this company, I did not have the specific experience to address these (ERP) upgrades since I did not have the technology skills or background. My company did not bother to train me, so I had to learn all the procedures ... on my own so that I wouldn't experience the same feeling again."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The software was very old with limited support and no peer help on the internet. A black box for almost everybody and I was admitted recently to the team. I didn't have any chance (time) for that (to cope) ... I didn't get one hour of sleep."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "I had to implement a new technology in the game I was developing, the problem is that the performance on the game's target platform was terrible. There is no documentation or help on the web for what I was doing."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "I accidentally deleted an important database property... I found it out on a Sunday night but just worked on it because then I wouldn't have to stress about it (on Monday)."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "The operating system that we used in development decided to make changes to its settings on its own. It was really difficult to figure out what had changed."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "individuals receive about 120 emails per day"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "50 percent of employees receive calls during their free time"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "(Mitarbeiter erleben) eine Überlastung durch E-Mails und Textnachrichten."
+  },
+  {
+    "TechnostSress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "(Mitarbeiter haben) Angst, wichtige Informationen zu verpassen, weshalb sie sich gezwungen fühlen, ständig ihre E-Mails zu überprüfen."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "(Viele Mitarbeiter sind) gezwungen, ein neues Betriebssystem oder Programm zu verwenden, mit dem sie noch nicht vertraut sind."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity, Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "\"In der Vergangenheit haben sich einige Leute nicht getraut, um Hilfe zu bitten, wahrscheinlich weil sie nicht dumm dastehen wollten, und haben stattdessen versucht, sich selbst mit dem Programm vertraut zu machen, was lange dauert...\""
+  },
+  {
+    "Technostress_Creator": "Techno-Unreliability",
+    "Definition": null,
+    "User_Statement": "(Mitarbeiter erlebten) Frustration, weil die Kommunikation mit Kollegen im Home-Office schwierig war."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "\"As employees, we are provided with smartwatches by the organization. These remind us to take regular breaks after a certain work period and monitor our blood pressure or pulse values and prompt us to take breaks or do breathing exercises if certain values are exceeded.\" (This quote describes a solution to the underlying problem of working too long without breaks)."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "\"In my organization, notifications are automatically set to mute by default outside of regular working hours. Calls are answered with automatic out-of-office messages to prevent employees from being reachable on the corporate phone anytime.\" (This quote describes a solution to the underlying problem of being constantly reachable)."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "\"We have tools that check directly in certain fields whether the data entered makes sense and sends feedback in cases of mistakes. For example, if employees do not enter numbers in the postal code.\" (This quote describes a solution to the underlying problem of making errors due to the system's nature)."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "John uses the ERP system day in day out and evaluates the usage of the ERP system as complex."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "...there are those [notifications and sounds] that are not important, and they bother me and even make me angry."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "\"I noticed that browsing [the social networking site] was not like... It was more stressful, it was no longer enjoyable. ... I've monitored over half a year how much I use, for example, [the social networking site] each day. ... In the beginning [my daily use] was 1-2 hours all the time... Now it's less than 30 minutes [a day].\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "\"I quite clearly associated [nightly IT] usage with some sort of sleep problems. ...I noticed that if I couldn't fall asleep because of [IT] use, it was usually because of my laptop.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "\"...I noticed that when I played an intensive game that required lots of concentration, my brains were not resting like [they should have been]. I was swinging to a stressful state, even when I should have been taking it easy.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "\"[Push notifications] do not [any longer] annoy me, but earlier they caused me to immediately react to them. Similar to when a phone it rings, I have to answer it, I thought that when I receive an email, I have to read it.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "The paper mentions interviewees faced strains such as \"anger at complex devices\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "\"After that [buggy incident], I thought that ‘Oh he#l, this [application] is sh*#ty!’\""
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "\"I'm known from my outbursts of rage with [IT] devices. ...I think it's a pathological reaction in me, that terrible rage [toward technologies that don't understand what I want to do with them].\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "Business smartphones blur the boundaries between work and private life, threatening an employee's work-life balance."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "a vast amount of incoming emails makes it difficult for employees to complete assigned work tasks, impairing productivity."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "Changes in digital reporting tools drain an employee's energy, thereby fostering job burnout."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": null,
+    "User_Statement": "IS-related complexity leads users to the feeling of inadequate skills and the need to spend time as well as effort to understand the different aspects of IS."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "users fear losing their job due to other employees with better IS skills or due to the replacement by an IS."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": null,
+    "User_Statement": "users feel uncertainty because of ongoing changes in IS and where they are constantly forced to adapt, learn, and educate themselves about new IS."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "[Technostress is provoked by] pushing employees to work harder using ICT..."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": null,
+    "User_Statement": "...work became intensified with never-ending employee availability, making mounting workloads a fact of life."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "Computer-mediated collaboration also led to a blurring of the line between work and private life."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": null,
+    "User_Statement": "[Technostress is provoked by]...invading their personal lives..."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": null,
+    "User_Statement": "[Technostress is provoked by]...instilling a fear of losing a job as a result of emerging technologies."
+  },
+  {
+    "Technostress_Creator": "Techno-complexity",
+    "Definition": "The inability to learn or deal with the complexity of new technology.",
+    "User_Statement": "many enterprise employees perceived that they could not control computer-related technologies which update frequently in routine work."
+  },
+  {
+    "Technostress_Creator": "Techno-complexity",
+    "Definition": "The inability to learn or deal with the complexity of new technology.",
+    "User_Statement": "Computer training is often impeded by such fears as breaking the machine, looking stupid, or losing control."
+  },
+  {
+    "Technostress_Creator": "Techno-insecurity",
+    "Definition": "Technology-induced job insecurity, e.g., fears of being replaced by more skilled people and the constant push to update technical skills.",
+    "User_Statement": "Doronina pointed out that computer anxiety was distinguished into separate categories: the fear of breaking the computer in some way, being perceived as ignorant or inept, anxiety of new technology and mathematics, various health threats."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "[Respondents] report feelings of anxiety and fear due to the constant need to update their knowledge about newly introduced IT systems in their company.",
+    "User_Statement": "[Respondents] report feelings of anxiety and fear due to the constant need to update their knowledge about newly introduced IT systems in their company."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "[Respondents] also perceive a threat and fear that others might surpass them in their skills, potentially leading to job loss.",
+    "User_Statement": "[Respondents] also perceive a threat and fear that others might surpass them in their skills, potentially leading to job loss."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "[Individuals nearing retirement] feel pressured to keep up with IT advancements.",
+    "User_Statement": "[Individuals nearing retirement] feel pressured to keep up with IT advancements."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "[A female manager] feels threatened by the possibility of being replaced by more IT-competent employees.",
+    "User_Statement": "[A female manager] feels threatened by the possibility of being replaced by more IT-competent employees."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload, Techno-Invasion, Techno-Uncertainty",
+    "Definition": "employees feel anxious, frustrated, and emotionally exhausted",
+    "User_Statement": "employees feel anxious, frustrated, and emotionally exhausted"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "technological stress can cause emotional exhaustion and job isolation",
+    "User_Statement": "technological stress can cause emotional exhaustion and job isolation"
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity, Techno-Uncertainty",
+    "Definition": "anxiety caused by job displacement, skills gaps, and reskilling",
+    "User_Statement": "anxiety caused by job displacement, skills gaps, and reskilling"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "IS users never feel \"free\" of IS.",
+    "User_Statement": "Mike, a Fortune 100 senior-management executive, spends a good part of his annual vacation answering office email messages. He has trouble focusing on family; he forgets things like dinner plans."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "IS users find it intimidating to learn and use IS.",
+    "User_Statement": "Joanne, a university secretary, found it difficult to use a new student-management application. Daunted by the sheer multiplicity of its features, exhausted by repeated crashes, and unhappy at the lack of IT support, she took early retirement."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "IS users face information overload and IS-enabled multitasking.",
+    "User_Statement": "Pat, a purchasing manager, is prompt at answering email and voicemail messages... every time she interrupts whatever she is doing to answer messages, it takes her about 15 minutes to refocus her full attention back to that task before another message comes along and the cycle start again."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "IS users never feel \"free\" of IS.",
+    "User_Statement": "Paul, a manager at a livestock feed company, uses his 45-minute office commute time to email, text, or call in instructions from his BlackBerry to fulfill last-minute customer orders, so that his commute is not \"wasted.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "ICTs force employees to work faster and longer, and expose them to an unlimited flow of information, making it difficult to identify relevant information and set priorities.",
+    "User_Statement": "ICTs force employees to work faster and longer, and expose them to an unlimited flow of information, making it difficult to identify relevant information and set priorities."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Employees can be reached at any time and feel forced to be constantly connected, which blurs the boundaries between work and private life and leads to a feeling of privacy loss.",
+    "User_Statement": "Employees can be reached at any time and feel forced to be constantly connected, which blurs the boundaries between work and private life and leads to a feeling of privacy loss."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "The complexity of ICTs leads users to feel inadequate regarding their computer skills and forces them to invest a lot of time and effort in learning and understanding the technologies.",
+    "User_Statement": "The complexity of ICTs leads users to feel inadequate regarding their computer skills and forces them to invest a lot of time and effort in learning and understanding the technologies."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "Users feel threatened about losing their job, either through automation by ICTs or to other people who have a better understanding of ICTs.",
+    "User_Statement": "Users feel threatened about losing their job, either through automation by ICTs or to other people who have a better understanding of ICTs."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "Constant changes and upgrades of ICTs unsettle employees, as it is difficult for them to build a knowledge base, and their existing knowledge quickly becomes obsolete.",
+    "User_Statement": "Constant changes and upgrades of ICTs unsettle employees, as it is difficult for them to build a knowledge base, and their existing knowledge quickly becomes obsolete."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "I feel overwhelmed by the amount of information I have to process through the IT systems and can no longer separate the important from the unimportant. (Derived from the description in the paper: \"techno-overload deals with overloaded information that human brain is incapable of processing... When a lot of information becomes available and employees cannot identify the relevant ones, it leads to dissatisfaction...\")",
+    "User_Statement": "I feel overwhelmed by the amount of information I have to process through the IT systems and can no longer separate the important from the unimportant. (Derived from the description in the paper: \"techno-overload deals with overloaded information that human brain is incapable of processing... When a lot of information becomes available and employees cannot identify the relevant ones, it leads to dissatisfaction...\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Due to constant availability via mobile networks and the internet, the line between work and private life blurs, which leads to unnecessary disturbances. (Derived from the description in the paper: \"Due to the wide use of mobile networks and connectivity, any employee can be reached out at any time at any place. Techno-invasion deals with this effect which essentially blurred the line between work-home balances, creates unnecessary disturbances...\")",
+    "User_Statement": "Due to constant availability via mobile networks and the internet, the line between work and private life blurs, which leads to unnecessary disturbances. (Derived from the description in the paper: \"Due to the wide use of mobile networks and connectivity, any employee can be reached out at any time at any place. Techno-invasion deals with this effect which essentially blurred the line between work-home balances, creates unnecessary disturbances...\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "The IT systems are so complex that it is difficult for me to constantly develop new skills, which leads to problems and errors at work. (Derived from the description in the paper: \"Techno-complexity deals with the complexities associated with IT&S. Due to this employees may be unable to develop new skills frequently and their use of existing solutions to new IT&S may result in creating issues and errors...\")",
+    "User_Statement": "The IT systems are so complex that it is difficult for me to constantly develop new skills, which leads to problems and errors at work. (Derived from the description in the paper: \"Techno-complexity deals with the complexities associated with IT&S. Due to this employees may be unable to develop new skills frequently and their use of existing solutions to new IT&S may result in creating issues and errors...\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "I am afraid of losing my job because new IT systems lead to automation or because people with better IT skills could replace me. (Derived from the description in the paper: \"Techno-insecurity creates a fear of job loss in employees as they perceive new IT&S may lead to automation or people with better skills and abilities to deal with IT&S will replace them...\")",
+    "User_Statement": "I am afraid of losing my job because new IT systems lead to automation or because people with better IT skills could replace me. (Derived from the description in the paper: \"Techno-insecurity creates a fear of job loss in employees as they perceive new IT&S may lead to automation or people with better skills and abilities to deal with IT&S will replace them...\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "The frequent and rapid changes in IT systems make me uncertain about my work tasks and my professional role. (Derived from the description in the paper: \"techno-uncertainty deals with the frequent and innovative changes in IT&S that makes workers uncertain about their work and job roles.\")",
+    "User_Statement": "The frequent and rapid changes in IT systems make me uncertain about my work tasks and my professional role. (Derived from the description in the paper: \"techno-uncertainty deals with the frequent and innovative changes in IT&S that makes workers uncertain about their work and job roles.\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "techno-overload (\"too much\")",
+    "User_Statement": "techno-overload (\"too much\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Technology characteristics affect stressors, which in turn, predict perceived strain. One such stressor is work overload.",
+    "User_Statement": "Technology characteristics affect stressors, which in turn, predict perceived strain. One such stressor is work overload."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "techno-invasion (\"always connected\")",
+    "User_Statement": "techno-invasion (\"always connected\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Technology characteristics (intrusive features) such as the ability to reach a person through technology.",
+    "User_Statement": "Technology characteristics (intrusive features) such as the ability to reach a person through technology."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Technology characteristics are related to stressors like work-home conflict and invasion of privacy.",
+    "User_Statement": "Technology characteristics are related to stressors like work-home conflict and invasion of privacy."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "techno-complexity (\"difficult\")",
+    "User_Statement": "techno-complexity (\"difficult\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "techno-insecurity (\"uncomfortable\")",
+    "User_Statement": "techno-insecurity (\"uncomfortable\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "Technostress creators (e.g., threat to job security due to new technologies).",
+    "User_Statement": "Technostress creators (e.g., threat to job security due to new technologies)."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "techno-uncertainty (“too often and unfamiliar\")",
+    "User_Statement": "techno-uncertainty (“too often and unfamiliar\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "Technology characteristics (dynamic features) such as the speed of technological change.",
+    "User_Statement": "Technology characteristics (dynamic features) such as the speed of technological change."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "If individuals receive too many emails and perceive email-overload as threatening IT-event...",
+    "User_Statement": "If individuals receive too many emails and perceive email-overload as threatening IT-event..."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "...grounded in the usage of IT (e.g., IT complexity) [8] lead to different user responses.",
+    "User_Statement": "...grounded in the usage of IT (e.g., IT complexity) [8] lead to different user responses."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"too many emails in the daily routine\"",
+    "User_Statement": "\"too many emails in the daily routine\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"So I can get messages on Skype, Teams, and my cell phone, I can be called, and so on.\"",
+    "User_Statement": "\"So I can get messages on Skype, Teams, and my cell phone, I can be called, and so on.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"And from that, of course, then the further processing of the email - so do I answer it, do I not answer it, do I file it, do I not file it, if I file it, where do I file it, do I need it again, or are they one-time processes where I can press delete after answering it. That's what drives me.\"",
+    "User_Statement": "\"And from that, of course, then the further processing of the email - so do I answer it, do I not answer it, do I file it, do I not file it, if I file it, where do I file it, do I need it again, or are they one-time processes where I can press delete after answering it. That's what drives me.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"[the company has set up an expectation that all employees should be able to respond to inquiries quickly and managers are explicitly expected to ensure that they are always available, even during weekends and holidays.]...the technology [...] has forced the company to make such a specification\"",
+    "User_Statement": "\"[the company has set up an expectation that all employees should be able to respond to inquiries quickly and managers are explicitly expected to ensure that they are always available, even during weekends and holidays.]...the technology [...] has forced the company to make such a specification\""
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "\"you constantly have to deal with new applications\"",
+    "User_Statement": "\"you constantly have to deal with new applications\""
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "\"The presence of unknown and new technology already creates stress. Yes, because it is always linked to the fact that you should know this technology, because otherwise you will be left behind at some point.\"",
+    "User_Statement": "\"The presence of unknown and new technology already creates stress. Yes, because it is always linked to the fact that you should know this technology, because otherwise you will be left behind at some point.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "[Qualitative interview question] \"Do you sometimes feel overwhelmed by the volume of incoming requests?\"",
+    "User_Statement": "[Qualitative interview question] \"Do you sometimes feel overwhelmed by the volume of incoming requests?\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "[Qualitative interview question] \"Can you disconnect from work during non-working hours?\"",
+    "User_Statement": "[Qualitative interview question] \"Can you disconnect from work during non-working hours?\""
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "[Qualitative interview question] \"Do you see the rising complexity of more intertwined systems as a burden?\"",
+    "User_Statement": "[Qualitative interview question] \"Do you see the rising complexity of more intertwined systems as a burden?\""
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "[Qualitative interview question] \"Do you sometimes fear losing your job due to new technology?\"",
+    "User_Statement": "[Qualitative interview question] \"Do you sometimes fear losing your job due to new technology?\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"Rather, I would say the way we use technology is stressful to me, such as the constant inflow of information, requests, and messages, even at home and after work.\"",
+    "User_Statement": "\"Rather, I would say the way we use technology is stressful to me, such as the constant inflow of information, requests, and messages, even at home and after work.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"Rather, I would say the way we use technology is stressful to me, such as the constant inflow of information, requests, and messages, even at home and after work.\"",
+    "User_Statement": "\"Rather, I would say the way we use technology is stressful to me, such as the constant inflow of information, requests, and messages, even at home and after work.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"I believe many employees are overwhelmed with requests and sometimes struggle to prioritize what to do first.\"",
+    "User_Statement": "\"I believe many employees are overwhelmed with requests and sometimes struggle to prioritize what to do first.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"Moreover, if they cannot finish their work, they take it home and think about what to do next or better tomorrow, which stresses them.\"",
+    "User_Statement": "\"Moreover, if they cannot finish their work, they take it home and think about what to do next or better tomorrow, which stresses them.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"So now they have introduced these email restrictions... who helps me out when I am back in the office and swamped with emails? Honestly, starting every day by answering tons of emails is not pleasant. You feel like you will not make it through them all before the workday has even begun.\"",
+    "User_Statement": "\"So now they have introduced these email restrictions... who helps me out when I am back in the office and swamped with emails? Honestly, starting every day by answering tons of emails is not pleasant. You feel like you will not make it through them all before the workday has even begun.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"I decided to open up and share my perception that I was suffocating in emails and requests and that I sometimes do not know where to start.\"",
+    "User_Statement": "\"I decided to open up and share my perception that I was suffocating in emails and requests and that I sometimes do not know where to start.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"If colleagues do not receive a response from me instantly, they either write question marks in the chat that constantly interrupt me or write me emails on the same topic as well.\"",
+    "User_Statement": "\"If colleagues do not receive a response from me instantly, they either write question marks in the chat that constantly interrupt me or write me emails on the same topic as well.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "[Coding example quotation] \"When I receive short messages on my private device, I accidentally get involved in business talks, even in my private life.\"",
+    "User_Statement": "[Coding example quotation] \"When I receive short messages on my private device, I accidentally get involved in business talks, even in my private life.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "[Coding example quotation] \"Not receiving the emails in the evening only stores them for the next day, where you start with a flood of emails.\"",
+    "User_Statement": "[Coding example quotation] \"Not receiving the emails in the evening only stores them for the next day, where you start with a flood of emails.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "[Coding example quotation] \"Some people think that their request is the only thing I have to deal with now. After a while, they even send question marks to remind me that they are still waiting. However, I have other tasks, too, and sometimes you have to wait.\"",
+    "User_Statement": "[Coding example quotation] \"Some people think that their request is the only thing I have to deal with now. After a while, they even send question marks to remind me that they are still waiting. However, I have other tasks, too, and sometimes you have to wait.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "[The feeling that one] must be more productive. (Original: \"that they must be more productive\")",
+    "User_Statement": "[The feeling that one] must be more productive. (Original: \"that they must be more productive\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "[The feeling that one] must be constantly available for work. (Original: \"constantly available to work\")",
+    "User_Statement": "[The feeling that one] must be constantly available for work. (Original: \"constantly available to work\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "[The feeling that one] is inept or unskilled at using the technology. (Original: \"inept or unskilled at using the technology\")",
+    "User_Statement": "[The feeling that one] is inept or unskilled at using the technology. (Original: \"inept or unskilled at using the technology\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "[The worry] of becoming unemployed. (Original: \"apprehensive about becoming unemployed\")",
+    "User_Statement": "[The worry] of becoming unemployed. (Original: \"apprehensive about becoming unemployed\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "[The feeling that one] must constantly adapt to change. (Original: \"constantly adapting to change\")",
+    "User_Statement": "[The feeling that one] must constantly adapt to change. (Original: \"constantly adapting to change\")"
+  },
+  {
+    "Technostress_Creator": "Techno-Overload, Techno-Invasion, Techno-Uncertainty",
+    "Definition": "\"This type of stress is often related to work and can manifest as techno overload, invasion, and uncertainty, which lead to feelings of anxiety, frustration, and emotional exhaustion\"",
+    "User_Statement": "\"This type of stress is often related to work and can manifest as techno overload, invasion, and uncertainty, which lead to feelings of anxiety, frustration, and emotional exhaustion\""
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity, Techno-Uncertainty",
+    "Definition": "\"Employees may feel anxious or uncertain about job security and the potential impact of AI on their roles\"",
+    "User_Statement": "\"Employees may feel anxious or uncertain about job security and the potential impact of AI on their roles\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"The continuous monitoring and data collection from Al systems can make employees feel watched, increasing their stress levels\"",
+    "User_Statement": "\"The continuous monitoring and data collection from Al systems can make employees feel watched, increasing their stress levels\""
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity, Techno-Uncertainty",
+    "Definition": "\"employees feel unprepared to adapt to new AI tools, increasing stress and decreasing engagement\"",
+    "User_Statement": "\"employees feel unprepared to adapt to new AI tools, increasing stress and decreasing engagement\""
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "[Derived from the description of technostress triggers] \"It is stressful when the system crashes, reacts slowly, or when learning new functions is so demanding.\"",
+    "User_Statement": "[Derived from the description of technostress triggers] \"It is stressful when the system crashes, reacts slowly, or when learning new functions is so demanding.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "[Derived from the description of technostress triggers] \"It is stressful when the system crashes or reacts slowly, especially when I am under time pressure.\"",
+    "User_Statement": "[Derived from the description of technostress triggers] \"It is stressful when the system crashes or reacts slowly, especially when I am under time pressure.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "[Derived from the description of the experiment where the system intentionally gives false feedback] \"The system hinders me in my work instead of helping me. It gives wrong instructions, which leads to 'performance stress', especially when I have to complete my tasks quickly.\"",
+    "User_Statement": "[Derived from the description of the experiment where the system intentionally gives false feedback] \"The system hinders me in my work instead of helping me. It gives wrong instructions, which leads to 'performance stress', especially when I have to complete my tasks quickly.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"I think it is a good idea to regulate the usage of work business end devices. If all employees are equally restricted, one does not have to worry about incoming e-mails the next day.\"",
+    "User_Statement": "\"I think it is a good idea to regulate the usage of work business end devices. If all employees are equally restricted, one does not have to worry about incoming e-mails the next day.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"I like working from home in the evening, This measure cuts my flexibility.\"",
+    "User_Statement": "\"I like working from home in the evening, This measure cuts my flexibility.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"If I do not receive e-mails in the evening, I cannot miss anything while I am at home. This is relaxing.\"",
+    "User_Statement": "\"If I do not receive e-mails in the evening, I cannot miss anything while I am at home. This is relaxing.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "“Sometimes it is important to write or receive e-mails in the evening. I do not want to reorganize my whole day because of that.\"",
+    "User_Statement": "“Sometimes it is important to write or receive e-mails in the evening. I do not want to reorganize my whole day because of that.\""
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "\"I've had it, three times. We have to do several works at the same time so we feel tired, dizzy, and stressed\".",
+    "User_Statement": "\"I've had it, three times. We have to do several works at the same time so we feel tired, dizzy, and stressed\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"Almost every night I get Whatsapp notifications from students and employees asking about work. This often happens outside of working hours\".",
+    "User_Statement": "\"Almost every night I get Whatsapp notifications from students and employees asking about work. This often happens outside of working hours\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "\"I feel a bit annoyed, sometimes I have to report on Saturday and Sunday. As on October 3, which coincided with a Sunday, I had to upload an assignment. Almost the days that should have been off I actually used to complete the task\".",
+    "User_Statement": "\"I feel a bit annoyed, sometimes I have to report on Saturday and Sunday. As on October 3, which coincided with a Sunday, I had to upload an assignment. Almost the days that should have been off I actually used to complete the task\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "\"Sometimes I don't believe it, because I am afraid of a system error. So even though the data has been uploaded, I'm afraid that there is an error in the data or system that I have uploaded\".",
+    "User_Statement": "\"Sometimes I don't believe it, because I am afraid of a system error. So even though the data has been uploaded, I'm afraid that there is an error in the data or system that I have uploaded\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "\"I'm worried with applications that are complicated in the sense that there are so many features. For instance, the same features are made into two\".",
+    "User_Statement": "\"I'm worried with applications that are complicated in the sense that there are so many features. For instance, the same features are made into two\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "\"I'm afraid that AI is growing so fast so that everything we do has been taken over by that. That's what I am afraid of\".",
+    "User_Statement": "\"I'm afraid that AI is growing so fast so that everything we do has been taken over by that. That's what I am afraid of\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "\"For example, people have started to understand technology since it is so easy to comprehend. But then, my services are not needed. What's the point of all of my capabilities then?\".",
+    "User_Statement": "\"For example, people have started to understand technology since it is so easy to comprehend. But then, my services are not needed. What's the point of all of my capabilities then?\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "\"Actually, there is anxiety, because as a person who works in the technology industry, you are required to follow the technology phases quickly. There are concerns that my capabilities will inevitably be replaced by many others who can do better in understanding the development of technology\".",
+    "User_Statement": "\"Actually, there is anxiety, because as a person who works in the technology industry, you are required to follow the technology phases quickly. There are concerns that my capabilities will inevitably be replaced by many others who can do better in understanding the development of technology\"."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "The potential of an ICT (Information and Communication Technology) to make an employee work faster and longer.",
+    "User_Statement": "The potential of an ICT (Information and Communication Technology) to make an employee work faster and longer."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Email-related stressors such as a high number of emails and poor email quality.",
+    "User_Statement": "Email-related stressors such as a high number of emails and poor email quality."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Information, communication, and social interaction overload when using social networking sites (SNS).",
+    "User_Statement": "Information, communication, and social interaction overload when using social networking sites (SNS)."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Stress from internet multitasking.",
+    "User_Statement": "Stress from internet multitasking."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "I have to handle more tasks and complete them faster.",
+    "User_Statement": "I have to handle more tasks and complete them faster."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "The potential of an ICT to invade an employee's private life because employees are reachable at any time and may feel they have to be constantly connected.",
+    "User_Statement": "The potential of an ICT to invade an employee's private life because employees are reachable at any time and may feel they have to be constantly connected."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Constant connectivity is identified as one of the main causes of technostress.",
+    "User_Statement": "Constant connectivity is identified as one of the main causes of technostress."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Frequent interruptions during working hours.",
+    "User_Statement": "Frequent interruptions during working hours."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "The invasion [of technology] into daily life due to blurred boundaries between public and personal contexts.",
+    "User_Statement": "The invasion [of technology] into daily life due to blurred boundaries between public and personal contexts."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "The inherent quality of an ICT that causes employees to feel inadequate about their computer skills.",
+    "User_Statement": "The inherent quality of an ICT that causes employees to feel inadequate about their computer skills."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "A lack of fit between the demands [of the technology] and the abilities [of the users].",
+    "User_Statement": "A lack of fit between the demands [of the technology] and the abilities [of the users]."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "Complexity and constant change in ICT use, which makes learning and application difficult.",
+    "User_Statement": "Complexity and constant change in ICT use, which makes learning and application difficult."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "Situations in which users feel threatened about losing their job.",
+    "User_Statement": "Situations in which users feel threatened about losing their job."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "Personal information is threatened because ICT use can be tracked.",
+    "User_Statement": "Personal information is threatened because ICT use can be tracked."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "The constant changes and upgrades of software and hardware, which can impose stress on employees.",
+    "User_Statement": "The constant changes and upgrades of software and hardware, which can impose stress on employees."
+  },
+  {
+    "Technostress_Creator": "Inclusion (as a specific form of Techno-Insecurity/Uncertainty)",
+    "Definition": "A feeling of inferiority compared to younger users and the resulting pressure to strive to be included in today's technological environment.",
+    "User_Statement": "A feeling of inferiority compared to younger users and the resulting pressure to strive to be included in today's technological environment."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Describes situations in which ICTs force users to work faster and longer.",
+    "User_Statement": "A quarter of the executives at large companies think that their voice mail and e-mail are unmanageable."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Describes the invasive effect of ICTs, where employees are reachable at any time and feel they must be constantly connected, blurring the lines between work and private life.",
+    "User_Statement": "Employees... feel forced to respond to the extent that not connecting becomes disquieting."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Describes situations in which ICTs force users to work faster and longer.",
+    "User_Statement": "Individuals feel frustrated and distressed as a result (of new work patterns, greater time, and more technology skills)."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "The perceived blurring of boundaries between work and personal life, caused by technology.",
+    "User_Statement": "BlackBerrys are now referred to as \"CrackBerrys\" in popular literature."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "Why is every user interface based on typing when typing is the worst thing individuals do on mobile devices?",
+    "User_Statement": "Why is every user interface based on typing when typing is the worst thing individuals do on mobile devices?"
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "The perceived blurring of boundaries between work and personal life, caused by technology.",
+    "User_Statement": "Even on vacation, ICTs make it possible, almost expected, for an individual to work (say) using a BlackBerry."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Describes situations in which ICT forces users to work faster and longer.",
+    "User_Statement": "[Users] feel forced to procure and process information just because it is available."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Describes the invasive effect of ICT, where users are reachable at any time and the boundaries between work and private life become blurred.",
+    "User_Statement": "[End users have] the feeling that they are never \"free\" from technology, that they are always under supervision or \"on call,\" and that their space has been invaded."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "Describes cases where the complexity of ICT causes users to feel inadequate and to invest time and effort in learning.",
+    "User_Statement": "Most users find the variety of applications and functions intimidating and do not really understand how or why they should be used."
+  },
+  {
+    "Technostress_Creator": "Techno-Insecurity",
+    "Definition": "Refers to situations in which users feel threatened about losing their jobs either through automation or to people with better ICT skills.",
+    "User_Statement": "End users fear the possibility of losing their jobs if they are unable to cope with the learning requirements and work process adjustments associated with new and changing ICT."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "Refers to contexts in which continuous changes and upgrades in ICT unsettle users and create uncertainty because they have to worry about constantly educating themselves.",
+    "User_Statement": "Employees must regularly learn how to work with new applications, even if their existing and recently acquired knowledge is obsolete."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Describes the invasive effect of ICT, where users are potentially reachable at any time, feel constantly \"connected,\" and the boundaries between work and private life become blurred.",
+    "User_Statement": "The use of these leads users to feel that they are never free of technology, are always under supervision or \"on call,\" and that their space has been invaded."
+  },
+  {
+    "Technostress_Creator": "Techno-Overload",
+    "Definition": "Describes situations in which Information and Communication Technologies (ICT) force users to work faster and longer.",
+    "User_Statement": "Individuals are therefore exposed to more information than they can efficiently handle and effectively use. They feel inundated with information and are forced to work faster to cope with increased processing requirements."
+  },
+  {
+    "Technostress_Creator": "Techno-Complexity",
+    "Definition": "Describes situations in which the complexity of ICT causes users to feel inadequate about their skills and forces them to invest time and effort in learning and understanding various aspects of ICT.",
+    "User_Statement": "Employees hardly get accustomed to one kind of application before they are forced to learn another. This results in \"skill discrepancy\", where existing skills are not sufficient and people spend much of their time learning how to use the new ICTs."
+  },
+  {
+    "Technostress_Creator": "Techno-Invasion",
+    "Definition": "Describes the invasive effect of ICT, where users are potentially reachable at any time, feel constantly \"connected,\" and the boundaries between work and private life become blurred.",
+    "User_Statement": "The workplace therefore extends and intrudes into other areas of life, results in greater workload, and hence adds to role stress."
+  },
+  {
+    "Technostress_Creator": "Techno-Uncertainty",
+    "Definition": "Refers to contexts in which ongoing changes and upgrades in an ICT unsettle users and create uncertainty, as they must constantly learn and educate themselves about the new ICT.",
+    "User_Statement": "Constant requirements for refreshing and updating can eventually lead to frustration and stress."
+  }
+]
